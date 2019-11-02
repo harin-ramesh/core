@@ -2,7 +2,7 @@
 Light weight web frame work, created for educational purpose
 
 
-To run th server:
+To run the server:
 ```
 python3 run_server.py
 ```
