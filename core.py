@@ -20,7 +20,7 @@ class Response:
         self.response = [] if response is None else response
         self.charset = charset
         self.headers = Headers()
-        self.headers.add_header('content-type', f'{content_type}; charset={charset})')
+        self.headers.add_header('content-type', f'{content_type}; charset={charset}')
         self._status = status
 
     @property
