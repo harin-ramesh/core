@@ -7,10 +7,6 @@ Light weight web frame work.
 # Installation
 ```
 git clone https://github.com/iamHarin17/core.git
-```
-```
 cd core
-```
-```
 pip install setup.py
 ```
