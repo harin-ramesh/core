@@ -1,12 +1,13 @@
 # Core
-Light weight web frame work, created for educational purpose
+Light weight web frame work.
 
-
-To run the server:
+To install:
 ```
-python3 run_server.py
+git clone https://github.com/iamHarin17/core.git
 ```
-Examle url
 ```
-http://127.0.0.1:5000/name/jon/
+cd core
+```
+```
+pip install setup.py
 ```
