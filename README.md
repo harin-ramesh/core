@@ -1,5 +1,5 @@
 # Core
-Core Lightweight Python Web framework that is built as a part of understanding how web framework works.
+Core is a Simple Python web framework that is built to get a better understanding of how web framework works.
 
 # Requirements
 * Python (3.5, 3.6, 3.7)
