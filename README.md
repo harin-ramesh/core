@@ -8,5 +8,5 @@ Core is a Simple Python web framework that is built to get a better understandin
 ```
 git clone https://github.com/iamHarin17/core.git
 cd core
-pip install setup.py
+python setup.py install
 ```
