@@ -1,5 +1,5 @@
 # Core
-Core is a simple python web framework that is built to get a better understanding of how web framework works.
+Core is a simple python `Hello World` web framework.
 
 # Requirements
 * Python (3.5, 3.6, 3.7)
