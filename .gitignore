@@ -3,4 +3,4 @@ example
 build
 core.egg-info
 dist
-.template.py.swp
+*.py.swp
