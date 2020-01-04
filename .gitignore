@@ -4,3 +4,4 @@ build
 core.egg-info
 dist
 *.py.swp
+test
