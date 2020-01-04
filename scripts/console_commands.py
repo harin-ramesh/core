@@ -1,5 +1,7 @@
 import os
 import argparse
+from core.command_line import create
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -13,4 +15,4 @@ def main():
             print("!!Not enough arguments")
             
 def create_project(a):
-    pass
+    create(a)
