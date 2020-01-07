@@ -13,7 +13,7 @@ python setup.py install
 ```
 core create-project <project-name>
 ```
-This will create directory with the given name.
+This will a create directory with the given name.
 ```
 project-name/
     __init___.py
