@@ -15,12 +15,12 @@ core create-project <project-name>
 ```
 This will create directory with the corresponding project name provided above.
 ```
-project-name:
-  -__init___.py
-  -run_server.py
-  -settings.py
-  -view.py
-  -wsgi.pu
-  -templates:
-    -index.html
+project-name/
+    __init___.py
+    run_server.py
+    settings.py
+    view.py
+    wsgi.pu
+    templates/
+        index.html
 ```
