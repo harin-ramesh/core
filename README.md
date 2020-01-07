@@ -10,6 +10,8 @@ git clone https://github.com/iamHarin17/core.git
 cd core
 python setup.py install
 ```
+##Tutorial
+[Tutorial](https://github.com/iamHarin17/core/blob/master/docs/tutorial.md#installation)
 
 ## License
 [MIT License](https://github.com/iamHarin17/core/blob/master/LICENSE)
