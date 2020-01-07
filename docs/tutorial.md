@@ -1,6 +1,6 @@
 ## Index
 * [Installation](#Installation)
-* [Project creation](#Project creation)
+* [Project creation](#Project-creation)
 
 ## Installation
 ```
@@ -9,7 +9,7 @@ cd core
 python setup.py install
 ```
 
-## Project creation
+## Project-creation
 ```
 core create-project <project-name>
 ```
