@@ -20,7 +20,7 @@ project-name/
     run_server.py
     settings.py
     view.py
-    wsgi.pu
+    wsgi.py
     templates/
         index.html
 ```
