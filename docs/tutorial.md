@@ -1,3 +1,6 @@
+## Index
+** [Installation](#Installation)
+
 ## Installation
 ```
 git clone https://github.com/iamHarin17/core.git
