@@ -1,5 +1,6 @@
 ## Index
-** [Installation](#Installation)
+* [Installation](#Installation)
+* [Project creation](#Project creation)
 
 ## Installation
 ```
