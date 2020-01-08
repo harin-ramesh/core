@@ -11,6 +11,6 @@ setup(
         "Source Code": "https://github.com/iamHarin17/core",
     },
     entry_points = {
-        'console_scripts': ['core=scripts.createproject:main'],
+        'console_scripts': ['core=scripts.console_commands:main'],
     }
 )
