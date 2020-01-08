@@ -2,7 +2,7 @@ import os
 import sys
 import signal
 from pathlib import Path
-from wsgiref.simple_server import make_server, demo_app
+from wsgiref.simple_server import make_server
 from wsgi import application
 
 def signal_handler(signal, frame):
