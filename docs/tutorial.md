@@ -24,3 +24,7 @@ project-name/
     templates/
         index.html
 ```
+Use the command given below to run the development server. 
+```
+python run_server.py
+```
