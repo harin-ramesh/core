@@ -1,7 +1,8 @@
-import os
 import argparse
-from core.command_line import create
+from os import path
+from distutils.dir_util import copy_tree
 
+TEMPLATE_PATH = "core/conf/projct_template"
 
 def main():
     parser = argparse.ArgumentParser()
@@ -14,5 +15,9 @@ def main():
         except IndexError as e:
             print("!!Not enough arguments")
             
-def create_project(a):
-    create(a)
+def create_project(name):
+    if path.exists(name):
+        print("Folder with same exists")
+        return
+    copy_tree(TEMPLATE_PATH,name)
+    print("Project created successfully")
