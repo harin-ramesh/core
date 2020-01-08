@@ -11,7 +11,6 @@ def signal_handler(signal, frame):
 if __name__ == '__main__':
     print("Development server started running....")
     print("Visit:http://localhost:5000/")
-    print('Press Ctrl+C to exit')
     signal.signal(signal.SIGINT, signal_handler)
     os.environ['SETTINGS_MODULE'] = 'settings'
     os.environ["FRAMEWORK"] = "view"
